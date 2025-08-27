@@ -1,4 +1,4 @@
-!!! Notice !!!
+!!! Important Notice !!!
 This project forked from https://github.com/memcachier/examples-django-tasklist
 
 The project was originally written for Python 2.7 and Django 2.1. The code has been upgraded for Python 3.12 and Django 4.2, and external resources have been localized.
