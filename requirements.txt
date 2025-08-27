@@ -1,0 +1,23 @@
+# Web Framework: Upgraded from 2.2 to a modern Long-Term Support (LTS) version.
+Django~=4.2
+
+# WSGI HTTP Server for production environments.
+gunicorn
+
+# PostgreSQL database adapter for Python.
+# Replaces the old 'psycopg2' with the modern, high-performance version.
+psycopg[c]
+
+# Utility to parse database URLs from environment variables (e.g., DATABASE_URL).
+dj-database-url
+
+# Simplified static file serving for production.
+whitenoise
+
+# Libraries for connecting to a Memcached caching server.
+django-bmemcached
+python-binary-memcached
+
+# Modern library for rendering beautiful forms
+django-crispy-forms
+crispy-bootstrap4
